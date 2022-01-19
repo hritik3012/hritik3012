@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hritik Kumar Singh
-- 👀 I’m interested in CP, WebD, AppD
-- 🌱 I’m currently learning DSA, OOPS
+- 👀 I’m interested in CP, WebD
+- 🌱 I’m currently learning DSA, WebD
 - 🔭 I’m currently working on enhancing my skills
 
 <!---
