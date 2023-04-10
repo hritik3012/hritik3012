@@ -1,3 +1,6 @@
+## 👨🏻‍💻 &nbsp;About Me
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - 👋 Hi, I’m Hritik Kumar Singh
 - 👀 I’m interested in CP, WebD
 - 🌱 I’m currently learning DSA, WebD
