@@ -1,4 +1,6 @@
 # Hi, I’m Hritik Kumar Singh👋 
+[![Instagram: Hritik](https://img.shields.io/badge/-Hritik-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hritik.singh__?igsh=MXVtZ3VnejVuYWR5YQ==)](https://www.instagram.com/hritik.singh__?igsh=MXVtZ3VnejVuYWR5YQ==)
+[![Linkedin: Hritik](https://img.shields.io/badge/-Hritik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/hritik.singh__?igsh=MXVtZ3VnejVuYWR5YQ==)](https://www.instagram.com/hritik.singh__?igsh=MXVtZ3VnejVuYWR5YQ==)
 ## 👨🏻‍💻 &nbsp;About Me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
