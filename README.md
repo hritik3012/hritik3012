@@ -2,7 +2,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-    &nbsp;Hi I'm Hritik Kumar Singh\
+
 🎓 &nbsp;I'm currently studying commputer science at Indian Institute of Information Technology, Bhopal.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, Nodejs and mongodb.\
 🌱 &nbsp;I'm on track for learning more about fullstack and Algorithms.\
